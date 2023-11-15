@@ -1,3 +1,7 @@
+## A Toolbox for VIsual Odometry Estimation
+
+In this repository, we provide easy interfaces for several exisiting SotA methods for Visual Odometry.
+
 ## TODOs & Updates
 
 - [ ] 2D-to-2D: Motion from Image Feature Correspondences
